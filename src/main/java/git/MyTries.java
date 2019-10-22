@@ -6,6 +6,6 @@ public class MyTries {
     private static final String b = "b";
 
     public static void main(String[] args) {
-        System.out.println("Third");
+        System.out.println("Second");
     }
 }
